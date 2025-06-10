@@ -171,29 +171,5 @@
 -Remove "ADMIN" To Music Kit
 -Added "FLAGS" To Music Kit
 
-(1.0.4)
--Fix Sync Music To All
--Added MVP_VVipMusicKit 
--Added MVP_AdminMusicKit 
--Added MVP_DefaultMusicKitPerSteam 
--Added MVP_OnlyAllowTheseGroupsCanToggleOffMVP
--Added "HIDDEN" To Music Kit
--Added "VVIP" To Music Kit
--Added "ADMIN" To Music Kit
--Added Extra Music In Workshop 3244740528
-
-(1.0.3)
--Fix Crash
--Fix Message Centre and  Centre Bottom Not Shown To Dead People
-
-(1.0.2)
--Added MVP_AutoRemovePlayerMySqlOlderThanXDays
--Added Back In Menu "menu.back"
-
-(1.0.1)
--Added MVP_ChangeMVPMenuFromChatToCentre
-
-(1.0.0)
--Initial Release
 ```
 
