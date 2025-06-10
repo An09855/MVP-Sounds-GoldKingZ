@@ -1,0 +1,12 @@
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\bin\Debug\net8.0\lang\en.json
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\bin\Debug\net8.0\lang\pt-br.json
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\bin\Debug\net8.0\MVP-Sounds-GoldKingZ.deps.json
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\bin\Debug\net8.0\MVP-Sounds-GoldKingZ.dll
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\bin\Debug\net8.0\MVP-Sounds-GoldKingZ.pdb
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\MVP-Sounds-GoldKingZ.csproj.AssemblyReference.cache
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\MVP-Sounds-GoldKingZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\MVP-Sounds-GoldKingZ.csproj.CoreCompileInputs.cache
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\MVP-Sounds-GoldKingZ.dll
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\refint\MVP-Sounds-GoldKingZ.dll
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\MVP-Sounds-GoldKingZ.pdb
+C:\Users\Sallyan\Downloads\cs2-MVP-Sounds-GoldKingZ-main\obj\Debug\net8.0\ref\MVP-Sounds-GoldKingZ.dll
