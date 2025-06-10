@@ -164,6 +164,7 @@
 ## .:[ Change Log ]:.
 ```
 (1.0.5)
+-Update CounterStrikeSharp
 -Remove MVP_VVipMusicKit 
 -Remove MVP_AdminMusicKit 
 -Remove "VVIP" To Music Kit
